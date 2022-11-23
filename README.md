@@ -1,5 +1,5 @@
 # ProtsiukPrits
-👋 Hi, I’m @DmytroProtsyukPrits :bowtie: 
+👋 Hi, I’m @DmytroProtsyukPrits :bowtie:
 💻 I’m doing first steps as Frontend dev. 
 🌱 My current stack JS, React, Redux , GitHub , WebPack, HTML, CSS, MongoDB.
 👀 I’m looking for collaboration 📣 with IT comunity to have oportynity to practice my new knowlege .
