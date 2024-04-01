@@ -20,20 +20,20 @@
     <a href="https://www.instagram.com/justppd/">
       <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
     
-    </
+  
 </a>
   </p>
 
   <p align="center">
     <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
   
-  </p
+
 </p>
 
   <div align="center"> 
     <ul align="left">
       
-      <
+      
 <li>👋 Hi, I’m @DmytroProtsyukPrits 😊</li>
       <li>💻 I’m taking my first steps as a Frontend dev.</li>
       <li>🌱 My current stack includes JS, React, Redux, GitHub, WebPack, HTML, CSS, and MongoDB.</li>
@@ -50,7 +50,6 @@
     
 <li>💬 Telegram: @just_ppd</li>
     
-    </u
 </ul>
 
     <h2> 🚀 Some Tools I Have Used and Learned</h2>
@@ -75,7 +74,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
     
-    </p
+  
 </p>
   </div>
 </div>
