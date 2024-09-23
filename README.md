@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dmytro.protsiuk.prits@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pXyt55AuLFzOdoWIq1oW46LwEhb6n38b/view?usp=sharing](https://drive.google.com/file/d/1pXyt55AuLFzOdoWIq1oW46LwEhb6n38b/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kCo7g7zW00d4H5YP1Hf9FwQ-coOFb2Ks/view?usp=sharing](https://drive.google.com/file/d/1kCo7g7zW00d4H5YP1Hf9FwQ-coOFb2Ks/view?usp=sharing)
 
 - ⚡ Fun fact **builder in IT**
 
