@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protsyukprits&label=Profile%20views&color=0e75b6&style=flat" alt="protsyukprits" /> </p>
 
-- 🔭 I’m currently working on [myzukrainy radio](https://myzukrainy.com/)
+- 🔭 I’m currently working on [vita-medcare online consultation](https://vita-medcare.vercel.app/)
 
-- 🌱 I’m currently learning **Gatsby**
-
+- 👯 I’m worked on [myzukrainy radio](https://myzukrainy.com/)
+    
 - 👯 I’m worked on [app for our pets](https://github.com/stgran66/petly)
 
 - 🤝 I’m worked on [app for see the movie](https://github.com/ProtsyukPrits/movie-team-project)
+
+- 🌱 I’m currently learning **Gatsby**
 
 - 💬 Ask me about **anything**
 
